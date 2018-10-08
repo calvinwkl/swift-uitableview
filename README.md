@@ -1,8 +1,8 @@
-# Using UITableView to display data in Swift ![Swift](http://img.shields.io/badge/swift-4.0-brightgreen.svg)
+# Using UITableView in Swift ![Swift](http://img.shields.io/badge/swift-4.0-brightgreen.svg)
 
 This repository contains the code illustrated in my Medium stories
 
-- [TBC]
+- [Using UITableView in Swift (1) - The Basics](https://medium.com/p/bdc0048c2a94)
 
 ## Prerequisite 
 
