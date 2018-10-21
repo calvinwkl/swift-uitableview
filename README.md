@@ -12,7 +12,7 @@ This repository contains the code illustrated in my Medium stories
 
 ## Playground
 
-- [TBC]
+![Screenshot](https://github.com/calvinwkl/swift-uitableview/blob/master/screenshot.png)
 
 ## JSON object
 
