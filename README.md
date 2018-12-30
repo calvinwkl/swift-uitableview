@@ -18,9 +18,6 @@ This repository contains the code illustrated in my Medium stories
 
 `UITableView.xcworkspace` under /UITableView
 
-![Screenshot](https://github.com/calvinwkl/swift-uitableview/blob/master/screenshot_2.png)
-
-
 ## Playground
 
 ![Screenshot](https://github.com/calvinwkl/swift-uitableview/blob/master/screenshot.png)
